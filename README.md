@@ -1,5 +1,5 @@
 # Disaiblity-and-Technology
-projects 
+
 Project title: Disability Employment Statistic Analyzer in USA.
 
 Project description:
