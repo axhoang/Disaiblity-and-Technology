@@ -1,4 +1,4 @@
-# Disaiblity-and-Technology
+# Disability-and-Technology
 
 Project title: Disability Employment Statistic Analyzer in USA.
 
